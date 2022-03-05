@@ -1,0 +1,20 @@
+.circle{
+    padding: 140px;
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    border: 19px solid #afcae8;
+}
+
+.bg-lightblue
+{
+    background-color: #afcae8;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
